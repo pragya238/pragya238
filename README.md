@@ -1,5 +1,5 @@
 <h1 align="center">Pragya Kashyap</h1>
-<h3 align="center">Frontend Developer | CS & AI Student</h3>
+<h3 align="center">Fullstack Developer | CS & AI Student</h3>
 
 <p align="center">
   <a href="https://portfolio-pragya.vercel.app/">Portfolio</a> •
