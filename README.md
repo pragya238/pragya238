@@ -1,18 +1,69 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Strengthening my skills in software development with a focus on writing clean, efficient, and scalable code.<br><br>👯 I’m looking to collaborate on<br>Meaningful tech initiatives, development teams, and open-source contributions where I can learn and add value.<br><br>🤝 I’m looking for help with<br>Industry best practices, advanced problem-solving approaches, and real-world application architecture.<br><br>🌱 I’m currently learning<br>Advanced concepts in JavaScript and React, along with core computer science fundamentals and AI/ML principles.<br><br>💬 Ask me about<br>Frontend development, logical problem solving, and structuring projects for maintainability and readability.<br><br>⚡ Fun fact<br>When I’m not coding, you’ll probably find me editing, playing sports or capturing moments through my lens, 'creativity is my constant companion'.
+<h1 align="center">Pragya Kashyap</h1>
+<h3 align="center">Frontend Developer | CS & AI Student</h3>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragya-kashyap-401788323/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@pragya_codes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kashyappragya23@gmail.com) 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pragya238&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pragya238&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pragya238&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://portfolio-pragya.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/pragya238">GitHub</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pragya238&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### About Me
+
+- Currently focused on building scalable and efficient web applications  
+- Interested in frontend development, UI/UX design, and real-world product building  
+- Open to collaboration on meaningful tech projects and development teams  
+- Exploring advanced JavaScript, React, and core computer science concepts  
+- Strong focus on clean code, performance, and maintainable architecture  
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,firebase,git" />
+</p>
+
+---
+
+### Projects
+
+- Personal Finance Management App  
+- Pomodoro Timer (POMOFOCUS)  
+- Fullstack Web Application  
+- Portfolio Website  
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pragya238&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pragya238&theme=tokyonight" />
+</p>
+
+---
+
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pragya238&theme=tokyo-night" />
+</p>
+
+---
+
+### Currently Learning
+
+- Advanced React Patterns  
+- System Design Basics  
+- AI/ML Fundamentals  
+
+---
+
+### Connect
+
+<p>
+  <a href="https://portfolio-pragya.vercel.app/">Portfolio</a> |
+  <a href="https://github.com/pragya238">GitHub</a>
+</p>
